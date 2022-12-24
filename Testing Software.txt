@@ -1,0 +1,14 @@
+1..Invicti(https://www.invicti.com/)
+2.snyk(https://snyk.io/){Code test}3.https://www.acunetix.com/
+3.immuniweb(https://www.immuniweb.com/)
+4.intruder(https://www.intruder.io/)
+5.astra(https://www.getastra.com/)
+
+
+
+Free and usable in kali linux:
+1.Nuclei Vulnerability Scanner
+2.Wapiti
+3.Sqlmap
+4.Zaproxy(https://www.zaproxy.org/)
+5.Vega(https://subgraph.com/vega/?r=qal-stt)
